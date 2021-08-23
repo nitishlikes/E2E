@@ -1,0 +1,5 @@
+resources\Reports.class
+resources\BaseClass.class
+academy\Login.class
+academy\ResetPass.class
+academy\LoginPage.class
